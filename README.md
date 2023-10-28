@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M-UmarHashmi
 - 👀 I’m interested in Web development and Machine learning.
-- 🌱 I’m currently learning Deep learning and Neural Networks.
-- 💞️ I’m looking to collaborate on Web development and Machine Learning Projects.
+- 🌱 I’m currently learning Full Stack Web Development and basics of Artificial Intelligence.
+- 💞️ I’m looking to collaborate on Web development Projects.
 - 📫 How to reach me through my email address advumarhashmi@gmail.com or my mobile number +923051929141.
 
 <!---
