@@ -36,12 +36,24 @@ I’m currently building **automation tools, scrapers, and AI-powered workflows*
 
 
 
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-UmarHashmi&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-UmarHashmi&theme=tokyonight" height="150"/>
+</p>
+
+---
+
 ### 🌍 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-advumarahashmi%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:advumarahashmi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YourGitHubUsername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)
+[![Email](https://img.shields.io/badge/Email-advumarahashmi%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:advumarahashmi@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/M-UmarHashmi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-purple?style=for-the-badge&logo=vercel)](#)
+
 
 ---
 
