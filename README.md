@@ -34,16 +34,7 @@ I’m currently building **automation tools, scrapers, and AI-powered workflows*
 | Databases | MongoDB, PostgreSQL |
 | Tools | Git, GitHub, Linux |
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" height="150"/>
-</p>
-
----
 
 ### 🌍 Connect With Me
 
