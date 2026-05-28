@@ -44,6 +44,7 @@ I’m currently building **automation tools, scrapers, and AI-powered workflows*
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/M-UmarHashmi)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-purple?style=for-the-badge&logo=vercel)](#)
+[![Contact](https://img.shields.io/badge/Portfolio-Coming%20Soon-purple?style=for-the-badge&logo=vercel)](0305-1929141)
 
 
 ---
