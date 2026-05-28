@@ -48,8 +48,7 @@ I’m currently building **automation tools, scrapers, and AI-powered workflows*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-purple?style=for-the-badge&logo=vercel)](#)
 
-[![Contact](https://img.shields.io/badge/Contact-Call%20Now-green?style=for-the-badge&logo=phone)](tel:+923051929141)
-
+[![Contact](https://img.shields.io/badge/Contact-0305--1929141-green?style=for-the-badge&logo=phone)](tel:+923051929141)
 
 ---
 
