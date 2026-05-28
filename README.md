@@ -40,11 +40,15 @@ I’m currently building **automation tools, scrapers, and AI-powered workflows*
 
 ### 🌍 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-advumarahashmi%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:advumarahashmi@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/M-UmarHashmi)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)  
+[![Email](https://img.shields.io/badge/Email-advumarahashmi%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:advumarahashmi@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/M-UmarHashmi)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-purple?style=for-the-badge&logo=vercel)](#)
-[![Contact](https://img.shields.io/badge/Portfolio-Coming%20Soon-purple?style=for-the-badge&logo=vercel)](0305-1929141)
+
+[![Contact](https://img.shields.io/badge/Contact-Call%20Now-green?style=for-the-badge&logo=phone)](tel:+923051929141)
 
 
 ---
